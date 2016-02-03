@@ -4,7 +4,7 @@ Example code for the tutorial found at [geezhawk.github.io](http://geezhawk.gith
 
 To try it yourself, clone the repo and run:
 
-* `npm init`
 * `npm install`
 * `pip install -r requirements.txt`
+* `./node_modules/.bin/webpack --config webpack.config.js`
 * `python manage.py runserver`
