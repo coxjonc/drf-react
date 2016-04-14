@@ -1,6 +1,6 @@
 Django Rest Framework + React = Awesome
 =======================================
-Example code for the tutorial found at [geezhawk.github.io](http://geezhawk.github.io/2016/02/02/using-react-with-django-rest-framework.html).
+Example code for the tutorial found at [geezhawk.github.io](http://geezhawk.github.io/using-react-with-django-rest-framework).
 
 To try it yourself, clone the repo and run:
 
